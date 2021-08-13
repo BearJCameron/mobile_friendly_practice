@@ -16,12 +16,15 @@
 .theme_title{
     color: white;
     text-align: center;
-    margin-top: 60px;
-    font-size: 20pt;
+    font-size: 25pt;
     font-family: 'Questrial', sans-serif;
+    position: absolute;
+    top: 10vw;
+    left: 48vw;
 }
 
 .section_div{
+    padding: 3rem;
     margin-left: 13%;
     margin-right: 13%;
     margin-bottom: 5rem;
