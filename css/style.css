@@ -1,0 +1,57 @@
+/* body{
+    background-image: url(/txt/bckgrnd_img.svg);
+    background-repeat: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.cls-1 {
+    fill: url(#gradient);
+}
+
+.theme_title{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 20pt;
+    font-family: 'Questrial', sans-serif;
+}
+
+.section_div{
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-bottom: 5rem;
+}
+
+#section_title01{
+    color: #31c5c5;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#section_title02{
+    color: #31c5c5;
+    font-family: 'Bebas Neue', cursive;
+    float: right;
+}
+
+#section_text1{
+    text-emphasis: left;
+}
+
+#section_text2{
+    clear: right;
+    text-align: right;
+}
+
+.foot{
+    height:5rem;
+    position: relative;
+    margin-bottom: 0;
+    display: block;
+    text-align: center;
+    background-color: black;
+}
+
+.footer_text{
+    color: white;
+    align-content: center y ;
+}
