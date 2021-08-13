@@ -4,6 +4,11 @@
     background-size: cover;
     background-repeat: no-repeat;
 } */
+
+*{
+    margin: 0;
+}
+
 .cls-1 {
     fill: url(#gradient);
 }
